@@ -1,0 +1,23 @@
+[
+    {
+        "name": "iPhone 13",
+        "price": "₹58,999",
+        "discount": "10%",
+        "rating": "4.7",
+        "image": "iphone.jpg"
+    },
+    {
+        "name": "Samsung Galaxy S22",
+        "price": "₹49,999",
+        "discount": "15%",
+        "rating": "4.5",
+        "image": "samsung.jpg"
+    },
+    {
+        "name": "OnePlus 10R",
+        "price": "₹38,999",
+        "discount": "12%",
+        "rating": "4.6",
+        "image": "oneplus.jpg"
+    }
+]
